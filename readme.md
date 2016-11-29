@@ -7,9 +7,9 @@ It creates a static html page showing a list of movies, including the title, pos
 Contents
 --------
 
-* ++media.py++: where a class named *Movie* is defined.
-* ++entertainment_center.py++: where a list of movies is stored as instances of the class *Movie*, including box art imagery and a trailer url.
-* ++fresh_tomatoes.py++: a program that takes as imputs the information stored in ++entertainment_center.py++ and returns an HTML page.
+* **media.py**: where a class named *Movie* is defined.
+* **entertainment_center.py**: where a list of movies is stored as instances of the class *Movie*, including box art imagery and a trailer url.
+* **fresh_tomatoes.py**: a program that takes as imputs the information stored in **entertainment_center.py** and returns an HTML page.
 
 Requirements
 ------------
